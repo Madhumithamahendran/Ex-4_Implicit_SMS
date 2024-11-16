@@ -1,6 +1,5 @@
-
+# DATE : 9.09.2024
 # Ex.No:4 Design an android application Send SMS using Intent.
-
 
 ## AIM:
 
